@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "kivy",
+  "repo": "ncis-kivy",
+  "versions": [
+    {
+      "commit": "b40a96ad00916a7a0d0ee8c49e476c79db908b54",
+      "parsed_at": "2026-11-07T12:22:50.054532+00:00",
+      "filetree": "filetree/b40a96ad00916a7a0d0ee8c49e476c79db908b54.nq.gz",
+      "blobs": [
+        "blob/5a25821ae138f1cdf7531defcff73958555a036b.nq.gz",
+        "blob/3fd282290e96c1d7e96e0fea6a6c605b63330d30.nq.gz",
+        "blob/e3984f7f3c9bd403f2970d662984a4865e3bba2d.nq.gz",
+        "blob/6fd2415116556fbc9b5b89d3f76107e6680af0c5.nq.gz",
+        "blob/85a8f49b097aa292623ac2959a3a4082fe522172.nq.gz",
+        "blob/bb86582c8fc8be733bc3b844be95ba52720e196d.nq.gz",
+        "blob/05976aa6ea0373c02be48ee717a56b3cec3ea084.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b1eecda5ef47c6c7ddf1dc608bcac0ff05bc6ac2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
