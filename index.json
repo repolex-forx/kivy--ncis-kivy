@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "ncis-kivy",
+  "versions": [
+    {
+      "commit": "b40a96ad00916a7a0d0ee8c49e476c79db908b54",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:25:24.209493+00:00"
+    }
+  ]
+}
